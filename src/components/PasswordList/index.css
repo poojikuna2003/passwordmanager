@@ -1,0 +1,17 @@
+.list-elements {
+  display: flex;
+  flex-direction: column;
+  border: solid 1px #94a3b8;
+  padding: 10px;
+  margin: 10px;
+  flex-wrap: wrap;
+}
+
+.profile-container-pic {
+  background-color: #10b981;
+  border-radius: 100%;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
